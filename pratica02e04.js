@@ -1,2 +1,2 @@
 let = nome = prompt("Digite seu nome de usuário")
-document.write("Olá " + nome)
+document.write("<h1>Olá " + nome + "<h1>")
